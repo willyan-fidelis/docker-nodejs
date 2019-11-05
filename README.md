@@ -27,4 +27,4 @@ Volumes: .:usr/app
 <br/>
 Instalar nodemon para auxiliar nesse mapeamento.
 <br/>
-Agora basta executar 'docker-compose up' sem ter que dar build
+Agora basta executar 'docker-compose up' sem ter que dar build, o compose ja faz toda orqustração!!
