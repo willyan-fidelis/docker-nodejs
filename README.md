@@ -28,3 +28,6 @@ Volumes: .:usr/app
 Instalar nodemon para auxiliar nesse mapeamento.
 <br/>
 Agora basta executar 'docker-compose up' sem ter que dar build, o compose ja faz toda orqustração!!
+
+
+https://dev.to/alex_barashkov/how-to-debug-nodejs-in-a-docker-container-bhi
